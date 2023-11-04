@@ -1,6 +1,4 @@
 # WEB-SCRAPING
-Certainly! Here's a detailed explanation of the provided Python code:
-
 ### Objective:
 The script is designed to scrape images from a given URL using Python. It uses the Selenium library to automate a web browser, fetches the HTML content, and parses it using the BeautifulSoup library to find image links. Then, it uses the Requests library to download the images.
 
@@ -48,7 +46,3 @@ The script is designed to scrape images from a given URL using Python. It uses t
 - Make sure the URL provided contains accessible images.
 - The downloaded images will be saved in an 'output' directory within the script's folder.
 
-### GitHub Repository:
-- The code can be organized into a GitHub repository with a README.md file providing details, instructions, and an explanation similar to this breakdown.
-
-Feel free to customize the code and README for your specific requirements before publishing it to GitHub or sharing it with others.
